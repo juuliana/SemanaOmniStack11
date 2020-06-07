@@ -6,6 +6,8 @@
 SEMANA OMNISTACK11
 </h1>
 
+<a href="https://www.linkedin.com/in/juliana-dos-santos-ribeiro-b721b6197/">Faça já sua conexão no meu LinkedIn</a>
+
 ## Ferramentas
 
 Este Aplicativo apresenta as seguintes ferramentas de Desenvolvimento:
@@ -15,7 +17,11 @@ Este Aplicativo apresenta as seguintes ferramentas de Desenvolvimento:
 - 💹 **Node Js**
 - 💹 **Expo**
 
-## Descrição do Projeto
+## Descrição
 
-Este projeto foi criado no Evento Omnistack11 da Rocketseat. Be The Hero é uma plataforma Web e também Mobile para que ONGs sejam
+Este projeto foi criado no Evento Omnistack11 da Rocketseat.
+
+Be The Hero é uma plataforma Web e também Mobile para que ONGs sejam
 divulgadas, fazendo com que as pessoas que desejam contribuir com elas, consigam colaborar!
+
+##### Obrigada por acessar, não esqueça daquela Star pra me ajudar! 
