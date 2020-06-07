@@ -3,7 +3,7 @@
   <img src="https://raw.githubusercontent.com/Rocketseat/semana-omnistack-11/master/.github/bethehero.png" alt="BE THE HERO" width="850">
 <br>
 <br>
-SEMANA OMNISTACK11
+SEMANA OMNISTACK11 - Be The Hero
 </h1>
 
 <a href="https://www.linkedin.com/in/juliana-dos-santos-ribeiro-b721b6197/">Faça já sua conexão no meu LinkedIn</a>
