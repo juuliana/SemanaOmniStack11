@@ -12,10 +12,10 @@ SEMANA OMNISTACK11 - Be The Hero
 
 Este Aplicativo apresenta as seguintes ferramentas de Desenvolvimento:
 
-- ⚛️ **React**
-- ⚛️ **React Native**
-- 💹 **Node Js**
-- 💹 **Expo**
+- **React** ⚛️ 
+- **React Native** ⚛️ 
+- **Node Js** 💹 
+- **Expo** 💹 
 
 ## Descrição
 
